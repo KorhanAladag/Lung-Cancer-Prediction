@@ -95,4 +95,4 @@ jupyter notebook lung_cancer_prediction.ipynb
 
 ## License
 
-MIT
+Apache 2.0
